@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*.blend[0-9]*
+
+# Local backups and duplicate/generated Blender scenes.
+monster.before-*.blend
+monster.original.blend
+monster.diagnostic.blend
+monster.prepared.blend
+
+# Comparisons against local historical files.
+inspect_revision.py
+revision_comparison.json
+hair_voids_before.json

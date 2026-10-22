@@ -1,0 +1,12 @@
+{
+  "source": "monster.revised.blend",
+  "stl": "monster_138x30x100mm.stl",
+  "triangles": 2985834,
+  "dimensions_mm_width_depth_height": [
+    138.0,
+    30.0,
+    100.0
+  ],
+  "bottom_z_mm": 0.0,
+  "bytes": 149291784
+}

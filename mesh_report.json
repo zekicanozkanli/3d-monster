@@ -1,0 +1,45 @@
+{
+  "vertices": 1492919,
+  "faces": 1491884,
+  "euler_characteristic": 2,
+  "components": 1,
+  "component_vertex_counts": [
+    1492919
+  ],
+  "small_component_bounds": [],
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "wire_edges": 0,
+  "volume_mm3": 100597.64009377023,
+  "dimensions_mm": [
+    138.0,
+    30.0,
+    100.0
+  ],
+  "lowest_z_mm": 0.0,
+  "requirements": {
+    "envelope_mm": [
+      138,
+      30,
+      100
+    ],
+    "exact_dimensions_mm": [
+      138,
+      30,
+      100
+    ],
+    "preserve_reference_proportions": false,
+    "one_piece": true,
+    "base": false,
+    "supports_allowed": true,
+    "process": "filament",
+    "material": null,
+    "nozzle_mm": null,
+    "printer": null,
+    "depth_and_back_inference_authorized": true,
+    "teeth_recessed_inside_mouths": true
+  },
+  "tooth_samples_outside_outer_skin": 0,
+  "minimum_tooth_setback_mm": 0.39628923163624563,
+  "feature_notes": "Closed mouth bowls, integrated teeth and prongs. Flat coplanar soles. Supports required for overhangs. Printer-specific process settings remain unknown."
+}

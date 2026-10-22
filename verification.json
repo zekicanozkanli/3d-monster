@@ -1,0 +1,29 @@
+{
+  "file": "monster.revised.blend",
+  "mesh_objects": 1,
+  "connected_components": 1,
+  "non_manifold_edges": 0,
+  "degenerate_faces": 0,
+  "euler_characteristic": 2,
+  "triangles": 2985834,
+  "signed_volume_mm3": 100597.65442816544,
+  "dimensions_mm": [
+    138.00000655464828,
+    30.00000142492354,
+    100.00000474974513
+  ],
+  "bottom_z_mm": 0.0,
+  "coplanar_sole_vertices": 1556,
+  "left_sole_vertices": 776,
+  "right_sole_vertices": 780,
+  "uniform_solid_centroid_mm": [
+    -1.0531333529894935,
+    1.9934043406477981,
+    49.21156791648598
+  ],
+  "uniform_solid_centroid_over_feet": true,
+  "scale_length": 0.0010000000474974513,
+  "tooth_minimum_setback_mm": 0.39628923163624563,
+  "tooth_construction": "Recessed crowns with roots buried in inner mouth walls, behind the outer skin",
+  "limitations": "Printer, nozzle and filament unknown. Slicer must choose supports, extrusion, infill and verify small tips. Solid-centroid check assumes uniform density."
+}
