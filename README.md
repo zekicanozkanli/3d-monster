@@ -4,7 +4,8 @@ it is a gift for my little friend
 ![Monster preview](monster_three_quarter.png)
 
 A five-headed creature modeled in Blender from the supplied reference image,
-prepared as one connected solid for filament 3D printing.
+prepared as one connected solid for filament 3D printing. Final dimensions are **138 mm wide × 30 mm deep × 100 mm high**. And the center of mass is
+(-1.053, 1.993, 49.212) with respect to the origin, assuming uniform mass distribution.
 
 ## Model files
 
@@ -12,10 +13,6 @@ prepared as one connected solid for filament 3D printing.
 - **`monster_138x30x100mm.stl`** — the exported print mesh, with coordinates in millimeters.
 - `references/monster-reference.png` — original visual reference.
 - `monster_*.png` — front, back, three-quarter, mouth, hair, and hip previews.
-
-Final dimensions are **138 mm wide × 30 mm deep × 100 mm high**. The model has
-recessed teeth, the revised hair tufts, filled hair voids, smoothly blended hips,
-and flat soles at Z = 0. It is one piece, without a base.
 
 ## Download
 
